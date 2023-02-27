@@ -1,13 +1,6 @@
-# Proyecto Final de la materia de Deep Learning de la Maestría en Ciencia de Datos
+# Pyspark prince
 
-**Profesor:** Francisco 
-
-**Integrantes del equipo**
-
-| # | Alumno                           | Clave única |
-|---|-----------------------------------|-------------|
-| 1 | Angel Rafael Ortega Ramírez | 123972      |
-| 2 | Carlos Tabares         | CU      |
+This repo´s intended objective is to create a pyspark version of the prince library that can be found in [this link](https://github.com/MaxHalford/prince)
 
 
 
